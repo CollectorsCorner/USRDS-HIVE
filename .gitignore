@@ -1,0 +1,38 @@
+"_id": "CB1",
+	"_type": "cvd beta-blocker",
+	"name": "Cardiovascular disease and beta-blocker patient data",
+	"version": "1.0",
+	"verification": "manual",
+	"creation_date": "April 30, 2017",
+	"modification_date": "Thursday May 18 05:08:36 EDT 2017",
+	"publication_status": "draft",
+	"keywords": [
+		"disease",
+		"human disease"
+	],
+	"xref": [
+		"DOID:2348",
+		"PRIMDIAG:412, 430, 431, 436, 452",
+		"DISCSTAT:1,3,6"
+	],
+	"usability_domain": [
+		"Number of patients in the ESRD hospital population who has been hospitalized with a cardiovascular event aka CVD and were administered-blockers],
+		"authors":{ [
+			"first_name": "Amanda",
+			"last_name": "Bell",
+		}],
+		"ArchivedData": "CB1",
+		"Content": {
+			"Start_date": 2010,
+			"End_date": 2013,
+			"patient_number": 3189
+		},
+		"patient_metadata": {
+			"male": 20,
+			"female": 0.20 "Caucasian": "African American": "Hispanic": "Native American": "Asian":
+		},
+		"Beta_blockers": {
+			"Atenolol": "Metoprolol succinate": "Metoprolol tartrate": "Carvidelol":
+		}
+	}
+}
